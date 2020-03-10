@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rrkatariya/react_todo_list/static/css/main.02f3ee5d.chunk.css",
+    "main.js": "/rrkatariya/react_todo_list/static/js/main.ac6b310d.chunk.js",
+    "main.js.map": "/rrkatariya/react_todo_list/static/js/main.ac6b310d.chunk.js.map",
+    "runtime-main.js": "/rrkatariya/react_todo_list/static/js/runtime-main.cbc6eef4.js",
+    "runtime-main.js.map": "/rrkatariya/react_todo_list/static/js/runtime-main.cbc6eef4.js.map",
+    "static/js/2.63c3d186.chunk.js": "/rrkatariya/react_todo_list/static/js/2.63c3d186.chunk.js",
+    "static/js/2.63c3d186.chunk.js.map": "/rrkatariya/react_todo_list/static/js/2.63c3d186.chunk.js.map",
+    "index.html": "/rrkatariya/react_todo_list/index.html",
+    "precache-manifest.4518002d1a478b3bd37db28745cea934.js": "/rrkatariya/react_todo_list/precache-manifest.4518002d1a478b3bd37db28745cea934.js",
+    "service-worker.js": "/rrkatariya/react_todo_list/service-worker.js",
+    "static/css/main.02f3ee5d.chunk.css.map": "/rrkatariya/react_todo_list/static/css/main.02f3ee5d.chunk.css.map",
+    "static/js/2.63c3d186.chunk.js.LICENSE.txt": "/rrkatariya/react_todo_list/static/js/2.63c3d186.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbc6eef4.js",
+    "static/js/2.63c3d186.chunk.js",
+    "static/css/main.02f3ee5d.chunk.css",
+    "static/js/main.ac6b310d.chunk.js"
+  ]
+}
